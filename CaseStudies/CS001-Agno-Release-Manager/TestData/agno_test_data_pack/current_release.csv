@@ -1,0 +1,2 @@
+release_id,release_name,planned_release_date,business_owner,release_manager,environment,scope,build_status,deployment_window,cab_status,known_risk_summary
+R6.2,Retail Checkout Modernization,2026-09-12,Digital Commerce,Release_Manager_Agent,Pre-Production,"Checkout, payment authorization, order confirmation, inventory reservation, customer notification",SUCCESS,Saturday 10:00 PM - Sunday 2:00 AM,Pending AI assessment,Payment authorization latency and two open high defects require review.

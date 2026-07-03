@@ -1,0 +1,61 @@
+test_case_id,release_id,module,test_type,test_name,execution_status,defect_id,execution_date,executed_by,comments
+TC-9001,R6.2,Admin,End-to-End,Admin validation scenario 1,Passed,,2026-09-01,qa_auto_bot,Failure under review
+TC-9002,R6.2,Admin,Integration,Admin validation scenario 2,Passed,,2026-09-03,manual_qa_1,Blocked by environment issue
+TC-9003,R6.2,Inventory,Smoke,Inventory validation scenario 3,Passed,,2026-09-06,manual_qa_2,Failure under review
+TC-9004,R6.2,Notifications,Regression,Notifications validation scenario 4,Blocked,JIRA-6201,2026-09-04,qa_auto_bot,Executed successfully
+TC-9005,R6.2,Reporting,Integration,Reporting validation scenario 5,Passed,,2026-09-02,manual_qa_2,Executed successfully
+TC-9006,R6.2,Inventory,Smoke,Inventory validation scenario 6,Passed,,2026-09-04,manual_qa_2,Evidence attached
+TC-9007,R6.2,Reporting,End-to-End,Reporting validation scenario 7,Passed,,2026-09-03,qa_auto_bot,Needs retest
+TC-9008,R6.2,Orders,Regression,Orders validation scenario 8,Passed,,2026-09-06,manual_qa_1,Blocked by environment issue
+TC-9009,R6.2,Orders,UAT,Orders validation scenario 9,Passed,,2026-09-03,manual_qa_1,Blocked by environment issue
+TC-9010,R6.2,Reporting,Regression,Reporting validation scenario 10,Passed,,2026-09-01,integration_suite,Blocked by environment issue
+TC-9011,R6.2,Login,Smoke,Login validation scenario 11,Passed,,2026-09-06,manual_qa_2,Needs retest
+TC-9012,R6.2,Profile,API,Profile validation scenario 12,Passed,,2026-09-05,qa_auto_bot,Executed successfully
+TC-9013,R6.2,Checkout,UAT,Checkout validation scenario 13,Blocked,JIRA-6210,2026-09-05,qa_auto_bot,Blocked by environment issue
+TC-9014,R6.2,Admin,API,Admin validation scenario 14,Passed,,2026-09-02,qa_auto_bot,Blocked by environment issue
+TC-9015,R6.2,Notifications,Regression,Notifications validation scenario 15,Blocked,JIRA-6223,2026-09-02,manual_qa_1,Executed successfully
+TC-9016,R6.2,Notifications,API,Notifications validation scenario 16,Failed,JIRA-6240,2026-09-06,manual_qa_1,Needs retest
+TC-9017,R6.2,Payment,Smoke,Payment validation scenario 17,Not Run,JIRA-6227,2026-09-01,manual_qa_1,Blocked by environment issue
+TC-9018,R6.2,Search,UAT,Search validation scenario 18,Failed,JIRA-6216,2026-09-03,manual_qa_1,Executed successfully
+TC-9019,R6.2,Search,API,Search validation scenario 19,Failed,JIRA-6215,2026-09-02,integration_suite,Blocked by environment issue
+TC-9020,R6.2,Orders,Smoke,Orders validation scenario 20,Failed,JIRA-6215,2026-09-01,manual_qa_1,Failure under review
+TC-9021,R6.2,Notifications,Regression,Notifications validation scenario 21,Passed,,2026-09-07,manual_qa_2,Blocked by environment issue
+TC-9022,R6.2,Reporting,End-to-End,Reporting validation scenario 22,Passed,,2026-09-03,qa_auto_bot,Executed successfully
+TC-9023,R6.2,Orders,Integration,Orders validation scenario 23,Passed,,2026-09-01,qa_auto_bot,Evidence attached
+TC-9024,R6.2,Search,Integration,Search validation scenario 24,Passed,,2026-09-04,qa_auto_bot,Failure under review
+TC-9025,R6.2,Admin,Regression,Admin validation scenario 25,Passed,,2026-09-06,integration_suite,Executed successfully
+TC-9026,R6.2,Reporting,End-to-End,Reporting validation scenario 26,Blocked,JIRA-6213,2026-09-03,integration_suite,Executed successfully
+TC-9027,R6.2,Notifications,UAT,Notifications validation scenario 27,Passed,,2026-09-07,qa_auto_bot,Blocked by environment issue
+TC-9028,R6.2,Reporting,API,Reporting validation scenario 28,Passed,,2026-09-03,integration_suite,Blocked by environment issue
+TC-9029,R6.2,Reporting,API,Reporting validation scenario 29,Passed,,2026-09-06,integration_suite,Needs retest
+TC-9030,R6.2,Admin,API,Admin validation scenario 30,Passed,,2026-09-05,qa_auto_bot,Blocked by environment issue
+TC-9031,R6.2,Orders,End-to-End,Orders validation scenario 31,Passed,,2026-09-05,manual_qa_2,Failure under review
+TC-9032,R6.2,Profile,Smoke,Profile validation scenario 32,Passed,,2026-09-05,integration_suite,Needs retest
+TC-9033,R6.2,Checkout,UAT,Checkout validation scenario 33,Passed,,2026-09-06,manual_qa_2,Executed successfully
+TC-9034,R6.2,Inventory,Smoke,Inventory validation scenario 34,Passed,,2026-09-07,manual_qa_1,Needs retest
+TC-9035,R6.2,Login,API,Login validation scenario 35,Passed,,2026-09-05,qa_auto_bot,Failure under review
+TC-9036,R6.2,Search,End-to-End,Search validation scenario 36,Blocked,JIRA-6213,2026-09-06,integration_suite,Failure under review
+TC-9037,R6.2,Search,UAT,Search validation scenario 37,Passed,,2026-09-06,qa_auto_bot,Executed successfully
+TC-9038,R6.2,Search,UAT,Search validation scenario 38,Passed,,2026-09-05,integration_suite,Executed successfully
+TC-9039,R6.2,Reporting,Regression,Reporting validation scenario 39,Passed,,2026-09-04,manual_qa_1,Failure under review
+TC-9040,R6.2,Reporting,End-to-End,Reporting validation scenario 40,Not Run,JIRA-6221,2026-09-07,integration_suite,Evidence attached
+TC-9041,R6.2,Reporting,End-to-End,Reporting validation scenario 41,Passed,,2026-09-04,manual_qa_1,Failure under review
+TC-9042,R6.2,Profile,Smoke,Profile validation scenario 42,Passed,,2026-09-07,manual_qa_2,Evidence attached
+TC-9043,R6.2,Profile,Integration,Profile validation scenario 43,Passed,,2026-09-04,qa_auto_bot,Blocked by environment issue
+TC-9044,R6.2,Inventory,Integration,Inventory validation scenario 44,Passed,,2026-09-05,qa_auto_bot,Needs retest
+TC-9045,R6.2,Payment,UAT,Payment validation scenario 45,Passed,,2026-09-02,manual_qa_1,Executed successfully
+TC-9046,R6.2,Search,End-to-End,Search validation scenario 46,Passed,,2026-09-04,integration_suite,Executed successfully
+TC-9047,R6.2,Inventory,API,Inventory validation scenario 47,Failed,JIRA-6238,2026-09-06,qa_auto_bot,Evidence attached
+TC-9048,R6.2,Search,Integration,Search validation scenario 48,Passed,,2026-09-03,integration_suite,Failure under review
+TC-9049,R6.2,Reporting,End-to-End,Reporting validation scenario 49,Passed,,2026-09-07,manual_qa_1,Failure under review
+TC-9050,R6.2,Inventory,API,Inventory validation scenario 50,Passed,,2026-09-01,integration_suite,Blocked by environment issue
+TC-9051,R6.2,Search,API,Search validation scenario 51,Passed,,2026-09-02,qa_auto_bot,Failure under review
+TC-9052,R6.2,Admin,Regression,Admin validation scenario 52,Passed,,2026-09-01,integration_suite,Needs retest
+TC-9053,R6.2,Profile,Integration,Profile validation scenario 53,Passed,,2026-09-04,manual_qa_2,Needs retest
+TC-9054,R6.2,Profile,API,Profile validation scenario 54,Passed,,2026-09-03,integration_suite,Blocked by environment issue
+TC-9055,R6.2,Checkout,UAT,Checkout validation scenario 55,Passed,,2026-09-05,qa_auto_bot,Blocked by environment issue
+TC-9056,R6.2,Inventory,UAT,Inventory validation scenario 56,Passed,,2026-09-01,qa_auto_bot,Needs retest
+TC-9057,R6.2,Inventory,End-to-End,Inventory validation scenario 57,Failed,JIRA-6210,2026-09-02,manual_qa_1,Failure under review
+TC-9058,R6.2,Checkout,Smoke,Checkout validation scenario 58,Passed,,2026-09-04,manual_qa_2,Blocked by environment issue
+TC-9059,R6.2,Payment,UAT,Payment validation scenario 59,Passed,,2026-09-06,qa_auto_bot,Needs retest
+TC-9060,R6.2,Orders,Regression,Orders validation scenario 60,Passed,,2026-09-03,integration_suite,Failure under review

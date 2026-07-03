@@ -1,0 +1,11 @@
+lesson_id,source_release,area,lesson,recommendation_type,importance
+LL-001,R5.2,Payment,Critical payment defects should block release until transaction success rate is above 99%.,Release governance,High
+LL-002,R5.4,Security,Critical security findings must not be accepted without compensating controls.,Security governance,High
+LL-003,R5.6,Build,Unstable or failed builds should trigger automatic NO-GO recommendation.,DevOps,High
+LL-004,R5.7,Testing,Regression pass rate above 97% correlates strongly with stable rollout.,QA,Medium
+LL-005,R5.8,CAB,Closed critical defects must be verified with retest evidence before approval.,Release governance,High
+LL-006,R5.9,Performance,Checkout APIs exceeding 3 second SLA create customer abandonment risk.,Performance,High
+LL-007,R6.0,Automation,Test automation evidence reduces CAB review time.,QA automation,Medium
+LL-008,R6.1,Defects,More than two open critical defects historically resulted in rollback or release deferral.,Defect management,High
+LL-009,R5.5,Monitoring,Production monitoring dashboard should be validated before release approval.,Operations,Medium
+LL-010,R5.3,Communication,Early business sign-off improves release confidence.,Stakeholder management,Low

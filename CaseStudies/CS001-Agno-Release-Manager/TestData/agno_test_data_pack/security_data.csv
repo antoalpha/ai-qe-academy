@@ -1,0 +1,21 @@
+finding_id,release_id,finding_type,severity,status,component,description,cvss_score,owner,remediation_due_date
+SEC-3001,R6.2,Broken Access Control,Low,Open,checkout-ui,Security scanner identified vulnerable package.,7.8,Dev,2026-09-15
+SEC-3002,R6.2,Broken Access Control,Medium,Resolved,payment-service,Access control rule requires review.,6.7,Platform,2026-09-11
+SEC-3003,R6.2,SQL Injection,Critical,Resolved,auth-service,Sensitive information exposure risk found.,3.8,Dev,2026-09-13
+SEC-3004,R6.2,Weak TLS,Medium,In Progress,notification-service,Access control rule requires review.,7.2,Platform,2026-09-13
+SEC-3005,R6.2,Broken Access Control,Medium,Resolved,order-api,Access control rule requires review.,8.8,Security,2026-09-10
+SEC-3006,R6.2,Secret Exposure,Low,Open,notification-service,Security header missing in response.,7.6,Dev,2026-09-06
+SEC-3007,R6.2,Secret Exposure,Medium,In Progress,checkout-ui,Access control rule requires review.,8.4,Dev,2026-09-10
+SEC-3008,R6.2,Dependency Vulnerability,Low,Resolved,notification-service,Security scanner identified vulnerable package.,6.6,Security,2026-09-07
+SEC-3009,R6.2,Broken Access Control,High,In Progress,checkout-ui,Sensitive information exposure risk found.,7.4,Dev,2026-09-13
+SEC-3010,R6.2,XSS,Medium,Open,auth-service,Input validation weakness detected.,5.2,Platform,2026-09-11
+SEC-3011,R6.2,Secret Exposure,Medium,Resolved,notification-service,Access control rule requires review.,5.5,Dev,2026-09-10
+SEC-3012,R6.2,Weak TLS,High,Open,checkout-ui,Access control rule requires review.,3.9,Platform,2026-09-08
+SEC-3013,R6.2,Dependency Vulnerability,High,Resolved,notification-service,Security header missing in response.,7.1,Security,2026-09-09
+SEC-3014,R6.2,Dependency Vulnerability,High,In Progress,payment-service,Security header missing in response.,3.9,Security,2026-09-06
+SEC-3015,R6.2,XSS,Medium,Resolved,auth-service,Security scanner identified vulnerable package.,8.9,Platform,2026-09-10
+SEC-3016,R6.2,XSS,Medium,In Progress,payment-service,Access control rule requires review.,9.4,Dev,2026-09-07
+SEC-3017,R6.2,SQL Injection,Medium,In Progress,notification-service,Security scanner identified vulnerable package.,4.1,Platform,2026-09-10
+SEC-3018,R6.2,Broken Access Control,Critical,Open,auth-service,Security header missing in response.,7.1,Platform,2026-09-09
+SEC-3019,R6.2,Secret Exposure,Medium,In Progress,order-api,Security header missing in response.,9.7,Dev,2026-09-15
+SEC-3020,R6.2,Weak TLS,Medium,Resolved,payment-service,Input validation weakness detected.,7.3,Dev,2026-09-07

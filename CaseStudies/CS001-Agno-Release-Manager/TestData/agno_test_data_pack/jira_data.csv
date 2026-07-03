@@ -1,0 +1,41 @@
+defect_id,release_id,module,title,description,severity,priority,status,assigned_team,business_impact,created_date
+JIRA-6201,R6.2,Orders,Orders issue observed during release validation #1,Unexpected error appears during regression validation.,Medium,P3,Open,Dev,Customer experience impact,2026-08-18
+JIRA-6202,R6.2,Checkout,Checkout issue observed during release validation #2,Backend service returns inconsistent response.,Medium,P3,Closed,DevOps,Revenue risk,2026-08-15
+JIRA-6203,R6.2,Admin,Admin issue observed during release validation #3,User workflow fails under specific data condition.,High,P2,In Progress,Product,Customer experience impact,2026-09-04
+JIRA-6204,R6.2,Profile,Profile issue observed during release validation #4,Backend service returns inconsistent response.,Medium,P3,Resolved,Security,Revenue risk,2026-08-20
+JIRA-6205,R6.2,Payment,Payment issue observed during release validation #5,Unexpected error appears during regression validation.,Medium,P3,In Progress,Security,Revenue risk,2026-08-17
+JIRA-6206,R6.2,Notifications,Notifications issue observed during release validation #6,Backend service returns inconsistent response.,Medium,P3,In Progress,Security,Revenue risk,2026-08-29
+JIRA-6207,R6.2,Search,Search issue observed during release validation #7,User workflow fails under specific data condition.,Medium,P3,Reopened,Product,Operational delay,2026-09-04
+JIRA-6208,R6.2,Admin,Admin issue observed during release validation #8,Unexpected error appears during regression validation.,Medium,P3,Closed,QA,Revenue risk,2026-08-22
+JIRA-6209,R6.2,Inventory,Inventory issue observed during release validation #9,User workflow fails under specific data condition.,Medium,P3,Reopened,DevOps,Operational delay,2026-08-29
+JIRA-6210,R6.2,Notifications,Notifications issue observed during release validation #10,Response time is slower than expected during peak test.,Medium,P3,In Progress,Dev,Operational delay,2026-09-04
+JIRA-6211,R6.2,Reporting,Reporting issue observed during release validation #11,Unexpected error appears during regression validation.,Critical,P1,Closed,Dev,Compliance concern,2026-08-27
+JIRA-6212,R6.2,Reporting,Reporting issue observed during release validation #12,Unexpected error appears during regression validation.,High,P2,Reopened,Security,Revenue risk,2026-08-22
+JIRA-6213,R6.2,Search,Search issue observed during release validation #13,Response time is slower than expected during peak test.,Low,P4,Closed,QA,Customer experience impact,2026-09-02
+JIRA-6214,R6.2,Profile,Profile issue observed during release validation #14,Incorrect value displayed in customer-facing screen.,Low,P4,In Progress,DevOps,Customer experience impact,2026-08-23
+JIRA-6215,R6.2,Reporting,Reporting issue observed during release validation #15,Response time is slower than expected during peak test.,High,P2,Closed,Product,Compliance concern,2026-09-02
+JIRA-6216,R6.2,Payment,Payment issue observed during release validation #16,Backend service returns inconsistent response.,Medium,P3,Open,DevOps,Revenue risk,2026-08-16
+JIRA-6217,R6.2,Payment,Payment issue observed during release validation #17,Incorrect value displayed in customer-facing screen.,Low,P4,Open,Product,Revenue risk,2026-08-27
+JIRA-6218,R6.2,Reporting,Reporting issue observed during release validation #18,Response time is slower than expected during peak test.,Medium,P3,Reopened,Product,Revenue risk,2026-08-18
+JIRA-6219,R6.2,Orders,Orders issue observed during release validation #19,Response time is slower than expected during peak test.,Medium,P3,Resolved,QA,Operational delay,2026-08-28
+JIRA-6220,R6.2,Orders,Orders issue observed during release validation #20,Backend service returns inconsistent response.,High,P2,Open,Dev,Minor usability impact,2026-08-18
+JIRA-6221,R6.2,Reporting,Reporting issue observed during release validation #21,Backend service returns inconsistent response.,Low,P4,In Progress,Dev,Customer experience impact,2026-08-26
+JIRA-6222,R6.2,Reporting,Reporting issue observed during release validation #22,User workflow fails under specific data condition.,Medium,P3,Resolved,Product,Operational delay,2026-08-30
+JIRA-6223,R6.2,Orders,Orders issue observed during release validation #23,Unexpected error appears during regression validation.,Critical,P1,Reopened,QA,Customer experience impact,2026-09-02
+JIRA-6224,R6.2,Profile,Profile issue observed during release validation #24,User workflow fails under specific data condition.,Low,P4,Open,Product,Customer experience impact,2026-08-19
+JIRA-6225,R6.2,Payment,Payment issue observed during release validation #25,Response time is slower than expected during peak test.,Medium,P3,Reopened,Product,Minor usability impact,2026-08-28
+JIRA-6226,R6.2,Inventory,Inventory issue observed during release validation #26,Response time is slower than expected during peak test.,Low,P4,Reopened,DevOps,Operational delay,2026-08-29
+JIRA-6227,R6.2,Inventory,Inventory issue observed during release validation #27,Unexpected error appears during regression validation.,Low,P4,Resolved,QA,Operational delay,2026-08-15
+JIRA-6228,R6.2,Inventory,Inventory issue observed during release validation #28,User workflow fails under specific data condition.,Medium,P3,In Progress,QA,Revenue risk,2026-08-22
+JIRA-6229,R6.2,Notifications,Notifications issue observed during release validation #29,User workflow fails under specific data condition.,Critical,P1,Open,Product,Customer experience impact,2026-08-23
+JIRA-6230,R6.2,Payment,Payment issue observed during release validation #30,Backend service returns inconsistent response.,Medium,P3,Open,Product,Compliance concern,2026-08-22
+JIRA-6231,R6.2,Inventory,Inventory issue observed during release validation #31,User workflow fails under specific data condition.,Low,P4,Closed,QA,Compliance concern,2026-08-26
+JIRA-6232,R6.2,Login,Login issue observed during release validation #32,User workflow fails under specific data condition.,Medium,P3,Resolved,QA,Compliance concern,2026-08-25
+JIRA-6233,R6.2,Inventory,Inventory issue observed during release validation #33,Unexpected error appears during regression validation.,Low,P4,Open,Product,Compliance concern,2026-08-19
+JIRA-6234,R6.2,Inventory,Inventory issue observed during release validation #34,User workflow fails under specific data condition.,Medium,P3,In Progress,DevOps,Minor usability impact,2026-08-18
+JIRA-6235,R6.2,Login,Login issue observed during release validation #35,User workflow fails under specific data condition.,Critical,P1,Reopened,Dev,Customer experience impact,2026-08-28
+JIRA-6236,R6.2,Search,Search issue observed during release validation #36,User workflow fails under specific data condition.,Medium,P3,Open,Dev,Compliance concern,2026-08-15
+JIRA-6237,R6.2,Profile,Profile issue observed during release validation #37,Response time is slower than expected during peak test.,Low,P4,In Progress,DevOps,Minor usability impact,2026-08-30
+JIRA-6238,R6.2,Login,Login issue observed during release validation #38,Backend service returns inconsistent response.,High,P2,In Progress,Product,Revenue risk,2026-08-25
+JIRA-6239,R6.2,Reporting,Reporting issue observed during release validation #39,Backend service returns inconsistent response.,Critical,P1,Resolved,Dev,Revenue risk,2026-08-31
+JIRA-6240,R6.2,Admin,Admin issue observed during release validation #40,User workflow fails under specific data condition.,High,P2,Open,Dev,Compliance concern,2026-08-18

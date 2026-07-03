@@ -1,0 +1,13 @@
+release_id,release_date,final_decision,critical_defects,high_defects,test_pass_rate,security_critical,security_high,performance_status,build_status,decision_reason
+R5.0,2026-01-15,GO,0,3,97.8,0,0,PASS,SUCCESS,Stable rollout with minor UI defects.
+R5.1,2026-02-12,GO,0,5,95.6,0,1,PASS,SUCCESS,One high security finding accepted with mitigation.
+R5.2,2026-03-10,NO-GO,3,8,86.4,1,3,FAIL,SUCCESS,Critical payment and performance risks.
+R5.3,2026-03-28,GO,0,2,98.9,0,0,PASS,SUCCESS,Excellent readiness score.
+R5.4,2026-04-18,NO-GO,2,7,88.2,1,2,FAIL,SUCCESS,Security and performance issues unresolved.
+R5.5,2026-05-05,GO,0,4,96.1,0,1,PASS,SUCCESS,Accepted medium operational risk.
+R5.6,2026-05-24,NO-GO,4,11,80.7,2,5,FAIL,FAILED,Build failure and unresolved blockers.
+R5.7,2026-06-08,GO,0,3,97.2,0,0,PASS,SUCCESS,Regression and security cleared.
+R5.8,2026-06-20,GO,1,2,94.8,0,0,PASS,SUCCESS,Single critical defect closed before CAB.
+R5.9,2026-07-03,NO-GO,2,6,89.5,0,2,FAIL,SUCCESS,Checkout latency exceeded SLA.
+R6.0,2026-07-24,GO,0,2,98.1,0,0,PASS,SUCCESS,Clean certification.
+R6.1,2026-08-15,NO-GO,3,9,84.9,1,4,FAIL,UNSTABLE,Unstable build and open critical defects.
